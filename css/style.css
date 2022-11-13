@@ -1,0 +1,272 @@
+.header .wrapper
+{
+width:100%
+margin:auto
+}
+.banner .wrapper
+{
+width:80%
+margin:auto
+}
+.image .wrapper
+{
+width:100%
+margin:auto
+}
+.footer .wrapper
+{
+width:100%
+margin:auto
+}
+.header
+{
+	height:100px;
+	background-color:indigo;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-around;
+}
+.header .header-fc .photo
+{
+	margin-top:25px;
+	height:50px;
+	width:20%;
+	background-color:crimson;
+}
+.header .header-fc .home
+{
+	margin-top:25px;
+	height:50px;
+	width:5%;
+	background-color:plum;
+}
+.header .header-fc .about
+{
+	margin-top:25px;
+	height:50px;
+	width:5%;
+	background-color:plum;
+}
+.header .header-fc .gallery
+{
+	margin-top:25px;
+	height:50px;
+	width:5%;
+	background-color:plum;
+}
+.header .header-fc .service
+{
+	margin-top:25px;
+	height:50px;
+	width:5%;
+	background-color:plum;
+}
+.header .header-fc .contact
+{
+	margin-top:25px;
+	height:50px;
+	width:5%;
+	background-color:plum;
+}
+.header .header-fc .icon
+{
+	margin-top:25px;
+	height:50px;
+	width:20%;
+	background-color:crimson;
+}
+.banner
+{
+	height:300px;
+	background-color:pink;
+}
+.banner .banner-fc
+{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+.banner .banner-fc .text
+{
+	margin-top:40px;
+	height:150px;
+	width:50%;
+	background-color:teal;
+}
+.banner .banner-fc .avaliable
+{
+	margin-top:35px;
+	height:50px;
+	width:20%;
+	background-color:teal;
+}
+
+.image
+{
+	height:950px;
+	background-color:steelblue;
+}
+.image .image-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.image .image-fc .a
+{
+	margin-top:35px;
+	height:200px;
+	width:22%;
+	background-color:lightgray;
+}
+.image .image-fc .b
+{
+	margin-top:35px;
+	height:200px;
+	width:22%;
+	background-color:lightcyan;
+}
+.image .image-fc .c
+{
+	margin-top:35px;
+	height:200px;
+	width:22%;
+	background-color:lightgray;
+}
+.image .image-fc .d
+{
+	margin-top:35px;
+	height:200px;
+	width:22%;
+	background-color:lightcyan;
+}
+.image .image-fc .e
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightcyan;
+}
+.image .image-fc .f
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightgray;
+}
+.image .image-fc .g
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightcyan;
+}
+.image .image-fc .h
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightgray;
+}
+.image .image-fc .i
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightgray;
+}
+.image .image-fc .j
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightcyan;
+}
+.image .image-fc .k
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightgray;
+}
+.image .image-fc .l
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightcyan;
+}
+.image .image-fc .m
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightcyan;
+}
+.image .image-fc .n
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightgray;
+}
+.image .image-fc .o
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightcyan;
+}
+.image .image-fc .p
+{
+	margin-top:25px;
+	height:200px;
+	width:22%;
+	background-color:lightgray;
+}
+.footer
+{
+	height:100px;
+	background-color:lightsalmon;
+}
+.footer .footer-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.footer .footer-fc .copyright
+{
+	margin-top:25px;
+	height:50px;
+	width:10%;
+	background-color:hotpink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
